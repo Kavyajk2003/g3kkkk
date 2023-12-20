@@ -1,2 +1,7 @@
 my first git lab
-today is wednesday
+today is wednesday 
+#include<stdio.h>
+int main()
+{
+printf("Hello World")
+}
