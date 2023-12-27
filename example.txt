@@ -1,9 +1,10 @@
-my first git lab
+y first git lab
 today is wednesday 
 #include<stdio.h>
 int main()
 {
 printf("Hello World")
 }
-im in master branch
-no no i am in branch 1
+im in git lab
+no no im in master branch
+
