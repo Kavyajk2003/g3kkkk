@@ -1,10 +1,9 @@
-y first git lab
+ first git lab
 today is wednesday 
 #include<stdio.h>
 int main()
 {
 printf("Hello World")
 }
-im in git lab
-no no im in master branch
+im in feature branch
 
